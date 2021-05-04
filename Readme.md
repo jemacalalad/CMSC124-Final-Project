@@ -27,4 +27,4 @@ source code/prjsrc
 folder for the GUI elements.
 
 ## Disclaimer
-This project is for academic purpose only
+This project is for academic purpose only. The project was submitted last December 31, 2020.
