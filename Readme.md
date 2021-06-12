@@ -21,11 +21,9 @@ python 124proj.py
 
 This program is just like any other python program, and the library Tkinter is built-in to python. However, this program was tested by the developers using Windows OS. Running this program on a different OS might need some adjustments depending on the OS.
 
-This program also uses images located on the
-
-`bash
+This program also uses images located on the `bash
 source code/prjsrc
-`folder for the GUI elements.
+` folder for the GUI elements.
 
 ## Disclaimer
 This project is for academic purpose only. The project was submitted last December 31, 2020.
